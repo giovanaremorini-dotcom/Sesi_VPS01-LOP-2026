@@ -42,4 +42,4 @@ void main(){
     getch();
 }
 ```
-![Fluxograma](./atendimento.png).
+![Fluxograma](atendimento.png).
